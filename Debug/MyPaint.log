@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  MyEllipse.cpp
+c:\users\dolev\onedrive\desktop\mfc- paint - dolev_nadav\mypaint\myellipse.cpp(18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\dolev\onedrive\desktop\mfc- paint - dolev_nadav\mypaint\myellipse.cpp(19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MyLine.cpp
+  MyPaint.cpp
+  MyPaintDlg.cpp
+c:\users\dolev\onedrive\desktop\mfc- paint - dolev_nadav\mypaint\mypaintdlg.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\dolev\onedrive\desktop\mfc- paint - dolev_nadav\mypaint\mypaintdlg.cpp(309): warning C4018: '<': signed/unsigned mismatch
+  MyRectangle.cpp
+  MyShape.cpp
+  MySquare.cpp
+  MyTriangle.cpp
+  Generating Code...
+  MyPaint.vcxproj -> C:\Users\Dolev\OneDrive\Desktop\MFC- Paint - Dolev_Nadav\Debug\MyPaint.exe
